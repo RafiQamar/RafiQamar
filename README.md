@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rafi Qamar 👋
 
-<!--
-**RafiQamar/RafiQamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I am a passionate Data Analyst with expertise in SQL, Python, Power BI, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- SQL
+- Python
+- Power BI
+- Excel
+- Web Scrapping
+- Machine Learning
+- Data Visualization
+
+## 📈 Projects
+- [E-commerce Analytics](https://github.com/RafiQamar/Ecommerce-Analytics-Project)
+- [HR Analytics Dashboard](https://github.com/RafiQamar/HR-Analytics-Project)
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/rafi-qamar/)
+
