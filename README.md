@@ -6,6 +6,8 @@ Welcome to my GitHub profile!
 I am a passionate Data Analyst with expertise in SQL, Python, Power BI, and Machine Learning.
 
 ## 🛠️ Technical Skills
+  <img align="right" src="https://github.com/lakhan9340/lakhan9340/blob/main/download%20(1).gif" alt="data science"  width="200" height="300" /> 
+  <br >
 - **Databases:** MySQL
 - **Python:** pandas, numpy, seaborn, matplotlib
 - **Visualization Tools:** Power BI, Excel, Matplotlib, Seaborn
@@ -26,9 +28,9 @@ I am a passionate Data Analyst with expertise in SQL, Python, Power BI, and Mach
 ### 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ersaurabhkumar&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ersaurabhkumar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Ersaurabhkumar&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RafiQamar&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafiQamar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=RafiQamar&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
