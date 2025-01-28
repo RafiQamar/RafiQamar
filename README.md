@@ -66,9 +66,7 @@ technologies to drive informed decision-making.
   - [Demo](https://weight-change-prediction-app.streamlit.app/)
 
 ### **Colorado Motor Vehicle Sales Data Analysis Project**
-- Conducted an in-depth analysis of Colorado motor vehicle sales data to uncover trends, seasonality, and sales performance across counties using Python (Pandas, Matplotlib, Seaborn).
-- Developed and implemented ARIMA and SARIMA models to accurately forecast sales, leveraging time series analysis to identify seasonal patterns and key economic factors.
-- Extracted actionable insights, highlighting top-performing counties and peak sales periods, informing business strategy and policy recommendations. 
+- Analyzed Colorado motor vehicle sales data using Python (Pandas, Matplotlib, Seaborn) to identify trends, seasonality, and county-level performance. Developed ARIMA/SARIMA models for accurate sales forecasting, uncovering seasonal patterns and key economic factors. Provided actionable insights to guide business strategy and policy recommendations.
 - [Colorado Motor Vehicle Sales Data Analysis Project](https://github.com/RafiQamar/Colorado-Motor-Vehicle-Sales-Data-Analysis-Project)
   
 ### **Target E-Commerce Dataset Analysis**  
