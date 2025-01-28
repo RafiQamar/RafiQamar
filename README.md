@@ -14,8 +14,9 @@ technologies to drive informed decision-making.
   
 </p>
 
-🌟 My goal: To deliver data-driven solutions that empower businesses! 
+My goal: To deliver data-driven solutions that empower businesses! 
 Feel free to explore my repositories and connect with me.
+
 ---
 ## 🛠️ Technical Skills
   <img align="right" src="https://github.com/RafiQamar/RafiQamar/blob/main/gif.gif" alt="data science"  width="150" height="200" /> 
