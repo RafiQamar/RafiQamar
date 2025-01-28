@@ -18,14 +18,56 @@ I am a passionate Data Analyst with expertise in SQL, Python, Power BI, and Mach
 ---
 
 ## 📈 Projects
+
+### **Customer Purchase Behavior and Sentiment Analysis**  
+- **Tech Stack:** SQL, Python, Power BI  
+- **Description:** Insights into customer preferences and behavior through SQL-based data analysis and interactive Power BI dashboards.  
+- **Highlights:**  
+  - Clean, normalized datasets  
+  - SQL scripts for transformations  
+  - Screenshots of Power BI dashboards  
 - [E-commerce Analytics](https://github.com/RafiQamar/Ecommerce-Analytics-Project)
   - [Demo](https://app.powerbi.com/view?r=eyJrIjoiZmVlNTUwMzItYjYzOC00ZjQ5LTkwZDYtMmZjOTBkZDU0NmY0IiwidCI6IjZjZTcwOTA0LTUwOWMtNGI0Zi1iNjc2LTJiMGRlZjA3M2U2YyJ9)
+
+### **HR Analytics**  
+- **Tech Stack:** Python, SQL, Power BI  
+- **Description:** Analyzed HR data to gain insights into employee performance, attrition, and workforce trends.  
+- **Highlights:**  
+  - SQL queries for workforce analytics  
+  - Data-driven insights on employee engagement  
+  - Power BI dashboards for visualization  
 - [HR Analytics Dashboard](https://github.com/RafiQamar/HR-Analytics-Project)
   - [Demo](https://app.powerbi.com/view?r=eyJrIjoiNzZlNDRiY2UtNmVlOC00MzhjLTgzNzMtOGU0NTE1YmYxMjAzIiwidCI6IjZjZTcwOTA0LTUwOWMtNGI0Zi1iNjc2LTJiMGRlZjA3M2U2YyJ9)
+ 
+### **Weight Change Prediction (Machine Learning)**  
+- **Tech Stack:** Python, XGB Regressor, Streamlit  
+- **Description:** Predict weight changes based on lifestyle factors like caloric intake, sleep quality, and stress levels.  
+- **Highlights:**  
+  - Interactive Streamlit app  
+  - Hyperparameter tuning and evaluation  
+  - Dataset insights via visualizations
+    
 - [Weight Change Prediction App](https://github.com/RafiQamar/Weight-Change-Prediction-App)
   - [Demo](https://weight-change-prediction-app.streamlit.app/)
+  
 - [Colorado Motor Vehicle Sales Data Analysis Project](https://github.com/RafiQamar/Colorado-Motor-Vehicle-Sales-Data-Analysis-Project)
+  
+### **Target E-Commerce Dataset Analysis**  
+- **Tech Stack:** Python, SQL, Jupyter Notebook  
+- **Description:** Uncovered customer behavior and sales trends with SQL queries and Python analysis.  
+- **Highlights:**  
+  - SQL scripts for querying datasets  
+  - Python-based visualizations (matplotlib, seaborn)  
+  - Interactive findings in Jupyter  
 - [Target E-Commerce Data Analysis Project](https://github.com/RafiQamar/Target-Ecommerce-Analysis)
+
+### **KBC Quiz Game**  
+- **Tech Stack:** Python  
+- **Description:** A Python-based quiz game inspired by 'Kon Banega Crorepati,' featuring rewards, penalties, and strategic gameplay.  
+- **Highlights:**  
+  - General knowledge question bank  
+  - Engaging game logic with hints  
+  - Interactive terminal-based user interface  
 - [KBC (Kon Banega Crorepati) Python Game](https://github.com/RafiQamar/KBC-Kon-Banega-Crorepati-Python-Game-)
 
 ### 📊 GitHub Stats  
@@ -61,5 +103,13 @@ I am a passionate Data Analyst with expertise in SQL, Python, Power BI, and Mach
 ###
 
 ## 📫 Connect with Me
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/rafi-qamar/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+
+###
 - **Email**: rafiqamar9@gmail.com
-- **Linkedin**:[Rafi Qamar](https://www.linkedin.com/in/rafi-qamar/)
+
