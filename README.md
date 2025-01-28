@@ -1,10 +1,19 @@
 # Hi, I'm Rafi Qamar 👋
+🎯 Aspiring Data Analyst | 📊 SQL, Python, Power BI | 💡 Passionate about turning data into actionable insights  
 
+<h4 align="center">
 Welcome to my GitHub profile!
+</h4>
 
 ## 🚀 About Me
-I am a passionate Data Analyst with expertise in SQL, Python, Power BI, and Machine Learning.
+<p align="center">
+Dynamic and detail-oriented Data Analyst with expertise in SQL, Python, Power BI, and exploratory data analysis (EDA).
+Proficient in crafting end-to-end analytics projects, focusing on clean, organized, and well-documented solutions for
+creating impactful dashboards and reports. Skilled at leveraging data insights and rapidly learning new
+technologies to drive informed decision-making.
+</p>
 
+🌟 My goal: To deliver data-driven solutions that empower businesses! 
 ---
 ## 🛠️ Technical Skills
   <img align="right" src="https://github.com/RafiQamar/RafiQamar/blob/main/gif.gif" alt="data science"  width="150" height="180" /> 
@@ -15,6 +24,7 @@ I am a passionate Data Analyst with expertise in SQL, Python, Power BI, and Mach
 - **Visualization Tools:** Power BI, Excel, Matplotlib, Seaborn
 - **Web Scrapping:** BeautifulSoup, requests, selenium
 - **Machine Learning:** scikit-learn, statsmodels
+- **Other Tools:** Jupyter Notebook, Streamlit, Excel
 ---
 
 ## 📈 Projects
@@ -49,7 +59,11 @@ I am a passionate Data Analyst with expertise in SQL, Python, Power BI, and Mach
     
 - [Weight Change Prediction App](https://github.com/RafiQamar/Weight-Change-Prediction-App)
   - [Demo](https://weight-change-prediction-app.streamlit.app/)
-  
+
+### **Colorado Motor Vehicle Sales Data Analysis Project**
+- Conducted an in-depth analysis of Colorado motor vehicle sales data to uncover trends, seasonality, and sales performance across counties using Python (Pandas, Matplotlib, Seaborn).
+- Developed and implemented ARIMA and SARIMA models to accurately forecast sales, leveraging time series analysis to identify seasonal patterns and key economic factors.
+- Extracted actionable insights, highlighting top-performing counties and peak sales periods, informing business strategy and policy recommendations. 
 - [Colorado Motor Vehicle Sales Data Analysis Project](https://github.com/RafiQamar/Colorado-Motor-Vehicle-Sales-Data-Analysis-Project)
   
 ### **Target E-Commerce Dataset Analysis**  
@@ -112,4 +126,19 @@ I am a passionate Data Analyst with expertise in SQL, Python, Power BI, and Mach
 
 ###
 - **Email**: rafiqamar9@gmail.com
+
+<h5 align="center">Feel free to explore my repositories and connect with me.</h5>
+
+
+ 
+
+  
+
+
+
+
+
+
+
+Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to discuss data analytics. 🚀
 
