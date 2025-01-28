@@ -25,11 +25,11 @@ I am a passionate Data Analyst with expertise in SQL, Python, Power BI, and Mach
 
 ### 📊 GitHub Stats  
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafiQamar&show_icons=true&theme=radical)  
-
-### 🔥 Most Used Languages  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafiQamar&layout=compact&theme=radical)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ersaurabhkumar&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ersaurabhkumar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Ersaurabhkumar&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
 
