@@ -14,9 +14,10 @@ technologies to drive informed decision-making.
   
 </p>
 
-My goal: To deliver data-driven solutions that empower businesses! 
-<br>
-Feel free to explore my repositories and connect with me.
+**My goal:** To deliver data-driven solutions that empower businesses! 
+<be>
+
+<h5>Feel free to explore my repositories and connect with me.</h5>
 
 ---
 ## 🛠️ Technical Skills
