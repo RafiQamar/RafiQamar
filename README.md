@@ -21,7 +21,7 @@ technologies to drive informed decision-making.
 
 ---
 ## 🛠️ Technical Skills
-  <img align="right" src="https://github.com/RafiQamar/RafiQamar/blob/main/gif.gif" alt="data science"  width="150" height="200" /> 
+  <img align="right" src="https://github.com/RafiQamar/RafiQamar/blob/main/gif.gif" alt="data science"  width="150" height="190" /> 
   <br >
   
 - **Databases:** MySQL
