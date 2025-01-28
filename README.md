@@ -11,12 +11,14 @@ Dynamic and detail-oriented Data Analyst with expertise in SQL, Python, Power BI
 Proficient in crafting end-to-end analytics projects, focusing on clean, organized, and well-documented solutions for
 creating impactful dashboards and reports. Skilled at leveraging data insights and rapidly learning new
 technologies to drive informed decision-making.
+  
 </p>
 
 🌟 My goal: To deliver data-driven solutions that empower businesses! 
+Feel free to explore my repositories and connect with me.
 ---
 ## 🛠️ Technical Skills
-  <img align="right" src="https://github.com/RafiQamar/RafiQamar/blob/main/gif.gif" alt="data science"  width="150" height="180" /> 
+  <img align="right" src="https://github.com/RafiQamar/RafiQamar/blob/main/gif.gif" alt="data science"  width="150" height="200" /> 
   <br >
   
 - **Databases:** MySQL
@@ -127,18 +129,4 @@ technologies to drive informed decision-making.
 ###
 - **Email**: rafiqamar9@gmail.com
 
-<h5 align="center">Feel free to explore my repositories and connect with me.</h5>
-
-
- 
-
-  
-
-
-
-
-
-
-
-Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to discuss data analytics. 🚀
-
+<h5 align="center">Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to discuss data analytics. 🚀</h5>
