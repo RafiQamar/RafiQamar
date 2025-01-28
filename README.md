@@ -5,14 +5,16 @@ Welcome to my GitHub profile!
 ## 🚀 About Me
 I am a passionate Data Analyst with expertise in SQL, Python, Power BI, and Machine Learning.
 
+---
 ## 🛠️ Technical Skills
-  <img align="right" src="https://github.com/lakhan9340/lakhan9340/blob/main/download%20(1).gif" alt="data science"  width="200" height="300" /> 
+  <img align="right" src="https://github.com/RafiQamar/RafiQamar/blob/main/gif.gif" alt="data science"  width="200" height="300" /> 
   <br >
 - **Databases:** MySQL
 - **Python:** pandas, numpy, seaborn, matplotlib
 - **Visualization Tools:** Power BI, Excel, Matplotlib, Seaborn
 - **Web Scrapping:** BeautifulSoup, requests, selenium
 - **Machine Learning:** scikit-learn, statsmodels
+---
 
 ## 📈 Projects
 - [E-commerce Analytics](https://github.com/RafiQamar/Ecommerce-Analytics-Project)
