@@ -39,7 +39,7 @@ I am a passionate Data Analyst with expertise in SQL, Python, Power BI, and Mach
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img src="https://github.com/RafiQamar/RafiQamar/blob/main/PowerBI.png" height="40" alt="powerbi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
