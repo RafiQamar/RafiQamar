@@ -7,7 +7,7 @@ I am a passionate Data Analyst with expertise in SQL, Python, Power BI, and Mach
 
 ---
 ## 🛠️ Technical Skills
-  <img align="right" src="https://github.com/RafiQamar/RafiQamar/blob/main/gif.gif" alt="data science"  width="200" height="250" /> 
+  <img align="right" src="https://github.com/RafiQamar/RafiQamar/blob/main/gif.gif" alt="data science"  width="150" height="180" /> 
   <br >
   
 - **Databases:** MySQL
