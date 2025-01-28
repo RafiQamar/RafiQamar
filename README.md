@@ -1,9 +1,9 @@
 # Hi, I'm Rafi Qamar 👋
 🎯 Aspiring Data Analyst | 📊 SQL, Python, Power BI | 💡 Passionate about turning data into actionable insights  
 
-<h4 align="center">
+<h3 align="center">
 Welcome to my GitHub profile!
-</h4>
+</h3>
 
 ## 🚀 About Me
 <p align="center">
@@ -15,6 +15,7 @@ technologies to drive informed decision-making.
 </p>
 
 My goal: To deliver data-driven solutions that empower businesses! 
+<br>
 Feel free to explore my repositories and connect with me.
 
 ---
@@ -127,7 +128,9 @@ Feel free to explore my repositories and connect with me.
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />: rafiqamar9@gmail.com
+
+
 ###
-- **Email**: rafiqamar9@gmail.com
 
 <h5 align="center">Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to discuss data analytics. 🚀</h5>
