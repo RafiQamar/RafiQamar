@@ -21,7 +21,7 @@ technologies to drive informed decision-making.
 
 ---
 ## 🛠️ Technical Skills
-  <img align="right" src="https://github.com/RafiQamar/RafiQamar/blob/main/gif.gif" alt="data science"  width="150" height="190" /> 
+  <img align="right" src="https://github.com/RafiQamar/RafiQamar/blob/main/gif.gif" alt="data science"  width="150" height="185" /> 
   <br >
   
 - **Databases:** MySQL
@@ -115,7 +115,7 @@ technologies to drive informed decision-making.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img src="https://github.com/RafiQamar/RafiQamar/blob/main/scikitlearn-original.svg" height="40" alt="scikitlearn logo"  />
 </div>
 
 ###
@@ -128,7 +128,7 @@ technologies to drive informed decision-making.
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />: **rafiqamar9@gmail.com**
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="25" alt="gmail logo"  />: **rafiqamar9@gmail.com**
 
 
 ###
