@@ -34,10 +34,21 @@ technologies to drive informed decision-making.
 
 ## 📈 Projects
 
+### IMDb Movies Analysis & Dashboard
+- **Tech Stack:** Python (Selenium, BeautifulSoup, Pandas, NumPy, Scikit-learn), MySQL, Power BI
+- **Description:** Scraped and analyzed 10,000 IMDb movies (2014-2024), built a machine learning model to predict missing genres, stored data in MySQL, and developed an interactive Power BI dashboard for insights.
+- **Highlights:**
+  - Automated web scraping using Selenium & BeautifulSoup
+  - Data cleaning & ML-based genre prediction using RandomForest
+  - SQL queries for movie insights (top-rated, longest duration, trends)
+  - Interactive Power BI dashboard with filters, charts, and KPIs
+- [IMDb Movies Analysis](https://github.com/RafiQamar/IMDb-Movie-Analysis)
+- [Demo](https://app.powerbi.com/view?r=eyJrIjoiNjkzMmQxM2EtYWFhZi00MDMwLTkyZmQtZDMyYTE5NjM1ZDVlIiwidCI6IjZjZTcwOTA0LTUwOWMtNGI0Zi1iNjc2LTJiMGRlZjA3M2U2YyJ9)
+
 ### **Customer Purchase Behavior and Sentiment Analysis**  
 - **Tech Stack:** SQL, Python, Power BI  
 - **Description:** Insights into customer preferences and behavior through SQL-based data analysis and interactive Power BI dashboards.  
-- **Highlights:**  
+- **Highlights:**
   - Clean, normalized datasets  
   - SQL scripts for transformations  
   - Screenshots of Power BI dashboards  
@@ -51,7 +62,7 @@ technologies to drive informed decision-making.
   - SQL queries for workforce analytics  
   - Data-driven insights on employee engagement  
   - Power BI dashboards for visualization  
-- [HR Analytics Dashboard](https://github.com/RafiQamar/HR-Analytics-Project)
+- [HR Analytics](https://github.com/RafiQamar/HR-Analytics-Project)
   - [Demo](https://app.powerbi.com/view?r=eyJrIjoiNzZlNDRiY2UtNmVlOC00MzhjLTgzNzMtOGU0NTE1YmYxMjAzIiwidCI6IjZjZTcwOTA0LTUwOWMtNGI0Zi1iNjc2LTJiMGRlZjA3M2U2YyJ9)
  
 ### **Weight Change Prediction (Machine Learning)**  
@@ -125,10 +136,10 @@ technologies to drive informed decision-making.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rafi-qamar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="22" alt="linkedin logo"  />
   </a>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="25" alt="gmail logo"  />: **rafiqamar9@gmail.com**
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="22" alt="gmail logo"  />: **rafiqamar9@gmail.com**
 
 
 ###
