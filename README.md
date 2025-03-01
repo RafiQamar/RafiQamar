@@ -54,6 +54,16 @@ technologies to drive informed decision-making.
   - Screenshots of Power BI dashboards  
 - [E-commerce Analytics](https://github.com/RafiQamar/Ecommerce-Analytics-Project)
   - [Demo](https://app.powerbi.com/view?r=eyJrIjoiZmVlNTUwMzItYjYzOC00ZjQ5LTkwZDYtMmZjOTBkZDU0NmY0IiwidCI6IjZjZTcwOTA0LTUwOWMtNGI0Zi1iNjc2LTJiMGRlZjA3M2U2YyJ9)
+ 
+### **Customer Churn Prediction (Machine Learning)**  
+- **Tech Stack:** Python, Jupyter, Streamlit, 
+- **Description:** Built and deployed a Streamlit-based customer churn prediction app using ML models.  
+- **Highlights:**
+  - Preprocessed and Exploratory Data Analysis  
+  - Hyperparameter tuning and evaluation on multiple models 
+  - Interactive Streamlit app 
+- [Customer Churn Prediction App](https://github.com/RafiQamar/Customer-Churn-Prediction-App)
+  - [Demo](https://customer-churn-prediction-app-rafi.streamlit.app/)
 
 ### **HR Analytics**  
 - **Tech Stack:** Python, SQL, Power BI  
