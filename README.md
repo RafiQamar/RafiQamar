@@ -1,5 +1,5 @@
 # Hi, I'm Rafi Qamar 👋
-🎯 Aspiring Data Analyst | 📊 SQL, Python, Power BI | 💡 Passionate about turning data into actionable insights  
+🎯 Aspiring Data Scientist | 📊 SQL, Python, Power BI, Excel, Machine Learning| 💡 Passionate about turning data into actionable insights  
 
 <h3 align="center">
 Welcome to my GitHub profile!
